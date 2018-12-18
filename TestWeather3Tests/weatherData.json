@@ -1,0 +1,42 @@
+{
+    "coord" : {
+        "lon" : -75.420000000000002,
+        "lat" : 40.439999999999998
+    },
+    "id" : 5213257,
+    "base" : "stations",
+    "sys" : {
+        "country" : "US",
+        "sunrise" : 1545049164,
+        "id" : 6134,
+        "message" : 0.050299999999999997,
+        "type" : 1,
+        "sunset" : 1545082609
+    },
+    "visibility" : 16093,
+    "cod" : 200,
+    "clouds" : {
+        "all" : 20
+    },
+    "dt" : 1545050100,
+    "main" : {
+        "humidity" : 93,
+        "temp_max" : 278.75,
+        "temp_min" : 276.14999999999998,
+        "temp" : 277.42000000000002,
+        "pressure" : 1009
+    },
+    "name" : "Spinnerstown",
+    "wind" : {
+        "speed" : 2.7000000000000002,
+        "deg" : 294.50200000000001
+    },
+    "weather" : [
+        {
+            "description" : "few clouds",
+            "id" : 801,
+            "icon" : "02d",
+            "main" : "Clouds"
+        }
+    ]
+}
